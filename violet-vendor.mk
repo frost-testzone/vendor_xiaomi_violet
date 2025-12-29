@@ -313,7 +313,6 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     com.qti.chi.override \
     com.qti.chi.override_moorea \
-    consumerir.sm6150 \
     fingerprint.fpc.default \
     fingerprint.goodix.default \
     libFaceGrade \
