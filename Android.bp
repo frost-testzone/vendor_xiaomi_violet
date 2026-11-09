@@ -2894,8 +2894,6 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libSNPE.so",
             ],
             shared_libs: [
-                "libsymphony-cpu",
-                "libsymphonypower",
                 "libdl",
                 "liblog",
                 "libc++_shared",
